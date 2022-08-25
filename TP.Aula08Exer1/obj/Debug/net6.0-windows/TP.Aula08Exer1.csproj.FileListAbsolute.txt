@@ -1,0 +1,17 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\bin\Debug\net6.0-windows\TP.Aula08Exer1.exe
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\bin\Debug\net6.0-windows\TP.Aula08Exer1.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\bin\Debug\net6.0-windows\TP.Aula08Exer1.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\bin\Debug\net6.0-windows\TP.Aula08Exer1.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\bin\Debug\net6.0-windows\TP.Aula08Exer1.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.Form1.resources
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.csproj.GenerateResource.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\refint\TP.Aula08Exer1.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\TP.Aula08Exer1.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula08Exer1\TP.Aula08Exer1\obj\Debug\net6.0-windows\ref\TP.Aula08Exer1.dll
